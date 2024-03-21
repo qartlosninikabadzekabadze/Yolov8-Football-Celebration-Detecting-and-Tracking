@@ -1,5 +1,8 @@
 # Football-Celebrations-Detection-and-Tracking-using-Yolov8
 
+![download (1)](https://github.com/KhaledAtef00/Football-Celebrations-Detection-and-Tracking-using-Yolov8/assets/105244576/850cbd7b-a317-406c-b23f-abaf070edde7)
+
+
 **Project Overview:**
 
 
@@ -15,17 +18,13 @@ Sports Analytics Application: Offers new perspectives for sports analytics, from
 
 
 **Dataset Overview:**
+
+
 Our model is trained on a privately curated dataset, comprising images and labels of football players' celebrations, manually annotated to ensure accuracy. 
 
-The dataset includes:
-
-
-A collection of images labeled with bounding boxes around celebrating players.
-Annotations include class_id, x_center, y_center, width, and height for each celebration instance.
-
+The dataset is a collection of images labeled with bounding boxes around celebrating players. Annotations include class_id, x_center, y_center, width, and height for each celebration instance.
 
 The data is split into 80% for training, 10% for validation, and 10% for testing, ensuring comprehensive model evaluation.
-
 
 **Performance Metrics:**
 
@@ -49,3 +48,5 @@ Detailed player behavior and emotion analysis for teams.
 Research and development in automated sports analytics technologies.
 Usage & Contribution
 This project is ideal for researchers, developers, and enthusiasts interested in computer vision, sports analytics, and machine learning. Contributions to enhance the model, extend the dataset, or improve the application are welcome.
+
+
