@@ -1,10 +1,17 @@
 # Football-Celebrations-Detection-and-Tracking-using-Yolov8
 
+
+
+https://github.com/user-attachments/assets/31e62cf7-00b5-41a6-b869-3546aae56c2e
+
+
+
 ![download (1)](https://github.com/KhaledAtef00/Football-Celebrations-Detection-and-Tracking-using-Yolov8/assets/105244576/850cbd7b-a317-406c-b23f-abaf070edde7)
 
 
 - id 0 --> Siu Cristiano Ronaldo Celebration
 - confidence level
+
 
 **Project Overview:**
 
@@ -58,7 +65,8 @@ This project opens up new avenues for integrating advanced computer vision techn
 Enhanced viewer experiences during broadcasts.
 Detailed player behavior and emotion analysis for teams.
 Research and development in automated sports analytics technologies.
-Usage & Contribution
-This project is ideal for researchers, developers, and enthusiasts interested in computer vision, sports analytics, and machine learning. Contributions to enhance the model, extend the dataset, or improve the application are welcome.
 
+
+**Future Work:**
+The project is still on-going and I intend to include more celebrations of other players and increase the size of the training data across different labels.
 
