@@ -32,12 +32,21 @@ The data is split into 80% for training, 10% for validation, and 10% for testing
 **Performance Metrics:**
 
 
-The model's effectiveness is demonstrated through high precision, recall, and mean Average Precision (mAP) scores:
+The model's effectiveness is demonstrated through high precision, recall, and mean Average Precision (mAP) scores on the training set:
+
 
 Precision: 0.98
+
+
 Recall: 0.988
+
+
 mAP50: 0.99
+
+
 mAP50-95: 0.819
+
+
 These metrics underscore the model's robustness and accuracy in detecting and tracking football players' celebrations across various scenarios.
 
 **Applications:**
